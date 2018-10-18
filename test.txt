@@ -1,0 +1,2 @@
+delete test file from workspace.
+not delete from repository.
